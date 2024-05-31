@@ -1,4 +1,4 @@
-# Revisão - 
+# 📚 Revisão - AWS Cloud Adoption Framework (AWS CAF)
 O que é o AWS Cloud Adoption Framework (AWS CAF)?
 Introdução ao AWS Cloud Adoption Framework (AWS CAF)
 
@@ -108,9 +108,8 @@ Aplicação de filtros, redimensionamento ou marcas d’água.
 Funcionamento:
 Execução do código da função em resposta a eventos (e.g., upload de imagem).
 Pagamento apenas pelo tempo de computação consumido.
-#-------------------------------------------------------------------------------------
 
-* Revisão - Aspectos Econômicos da Nuvem AWS * 
+# 📚 Revisão - Aspectos Econômicos da Nuvem AWS * 
 
 Custos Fixos vs Custos Variáveis
 Custos Fixos: não mudam independentemente do uso ou demanda.
