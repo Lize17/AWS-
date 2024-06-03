@@ -1,30 +1,35 @@
-## Revisão
+## 📚 Revisão - Modelo de Responsabilidade Compartilhada da AWS
 Categorias de Serviços em Nuvem
 Introdução à AWS e Computação em Nuvem
 
 AWS: Amazon Web Services.
 Maior provedora de serviços de computação em nuvem do mundo.
 Oferece mais de 200 serviços para armazenar, processar, analisar e gerenciar dados na internet.
-Categorias de Serviços na AWS
 
-Infraestrutura como Serviço (IaaS).
-Plataforma como Serviço (PaaS).
-Software como Serviço (SaaS).
-Infraestrutura como Serviço (IaaS)
+## 📍 Categorias de Serviços na AWS
 
-Nível mais baixo de abstração.
-Cliente tem acesso direto aos recursos de computação, armazenamento e rede da nuvem.
-Exemplo: Amazon EC2 - criação e execução de máquinas virtuais na nuvem.
-Plataforma como Serviço (PaaS)
+### Infraestrutura como Serviço (IaaS).
+### Plataforma como Serviço (PaaS).
+### Software como Serviço (SaaS).
 
-Nível intermediário de abstração.
-Cliente foca apenas na plataforma para desenvolver e executar aplicações.
-Exemplo: AWS Lambda - criação e execução de funções na nuvem sem gerenciar servidores.
-Software como Serviço (SaaS)
+## ♦ Infraestrutura como Serviço (IaaS)
+◼ Nível mais baixo de abstração.
 
-Nível mais alto de abstração.
-Cliente foca apenas no software para realizar suas tarefas.
-Exemplo: Amazon S3 - armazenamento e recuperação de dados na nuvem sem gerenciar servidores ou bancos de dados.
+◼ Cliente tem acesso direto aos recursos de computação, armazenamento e rede da nuvem.
+#### Exemplo: Amazon EC2 - criação e execução de máquinas virtuais na nuvem.
+
+## ♦ Plataforma como Serviço (PaaS)
+◼ Nível intermediário de abstração.
+
+◼ Cliente foca apenas na plataforma para desenvolver e executar aplicações.
+#### Exemplo: AWS Lambda - criação e execução de funções na nuvem sem gerenciar servidores.
+
+## ♦ Software como Serviço (SaaS)
+◼ Nível mais alto de abstração.
+
+◼ Cliente foca apenas no software para realizar suas tarefas.
+#### Exemplo: Amazon S3 - armazenamento e recuperação de dados na nuvem sem gerenciar servidores ou bancos de dados.
+
 O Modelo de Responsabilidade Compartilhada
 Definição do Modelo
 
