@@ -328,3 +328,75 @@ Analogia: Passe Universal para Parques Temáticos
 Gerenciamento de identidade federado é como ter um passe universal para parques temáticos.
 Ao invés de comprar um ingresso para cada parque, usa-se um passe existente.
 Simplificação do acesso, melhorando a experiência do usuário, mantendo segurança e controle centralizado.
+
+## 📚 Revisão - Componentes e Recursos de Segurança na AWS
+Revisão
+Recursos e Serviços de Segurança da AWS
+Grupos de Segurança e ACLs de Rede: Seus Guardiões Digitais
+
+Grupos de Segurança
+Controlam tráfego de entrada e saída para instâncias EC2.
+Protegem suas aplicações contra acessos não autorizados ou mal-intencionados.
+Exemplo: permitindo apenas tráfego nas portas 80 (HTTP) e 443 (HTTPS).
+ACLs de Rede (Access Control Lists)
+Operam em nível de sub-rede.
+Definem permissões de entrada e saída para toda a sub-rede na VPC.
+Oferecem um nível adicional de segurança.
+Complementam os Grupos de Segurança.
+AWS WAF: O Escudo Protetor das Suas Aplicações Web
+AWS WAF (Web Application Firewall)
+
+Serviço dedicado à proteção de aplicações web contra ataques comuns.
+Inspeção do tráfego para criar regras personalizadas de bloqueio.
+Defende contra injeções SQL, cross-site scripting (XSS) e outras vulnerabilidades.
+Controle Detalhado de Tráfego
+Garante processamento apenas de solicitações legítimas.
+Filtra mensagens suspeitas, evitando acessos não autorizados.
+Funciona como um sistema de defesa avançado para suas aplicações web.
+Explorando Produtos de Segurança de Terceiros no AWS Marketplace
+AWS Marketplace
+
+Vitrine de soluções de segurança de terceiros para complementar as capacidades nativas da AWS.
+Oferece uma variedade de produtos avançados, como firewalls e sistemas de detecção de intrusão.
+Escolha meticulosa de soluções para atender às necessidades específicas de segurança.
+Facilita a Implementação de Soluções de Segurança de Terceiros
+Integra-se perfeitamente ao seu ecossistema AWS existente
+Permite uma configuração ágil.
+Possibilita um gerenciamento eficiente.
+Localizando Informações de Segurança Essenciais da AWS
+AWS Knowledge Center
+
+Biblioteca extensa de tutoriais e soluções para problemas comuns na AWS.
+Oferece guias detalhados, como configuração de políticas de segurança IAM e otimização do Amazon VPC.
+Ideal tanto para quem está começando quanto para aqueles que buscam resolver problemas específicos.
+2. Blog de Segurança da AWS
+
+Últimas tendências e melhores práticas no mundo da segurança na nuvem.
+Estudos de caso, análises de recursos de segurança, e whitepapers.
+Acesso a insights valiosos.
+3. AWS Security Hub
+
+Visão centralizada e gerenciamento de alertas de segurança e conformidade.
+Integra dados de segurança de várias fontes.
+Identificação e gerenciamento de potenciais riscos e vulnerabilidades.
+4. Documentação Oficial e Whitepapers da AWS
+
+Detalhes sobre melhores práticas de segurança.
+Configurações recomendadas.
+Análises de segurança.
+5. Comunidade AWS
+
+Interação através de fóruns, grupos de usuários e conferências.
+Compartilhamento de conhecimento.
+Aprendizado com a experiência de outros profissionais.
+Utilizando o AWS Trusted Advisor para Identificar Problemas de Segurança
+AWS Trusted Advisor
+
+Analisa seu ambiente AWS em busca de potenciais problemas de segurança
+Oferece recomendações para melhorar a eficiência, performance, e segurança.
+Identifica práticas recomendadas que você pode não estar seguindo.
+Sistema de Defesa em Camadas
+
+Grupos de Segurança e ACLs de Rede controlando o acesso à rede.
+AWS WAF protegendo suas aplicações web contra ataques específicos.
+Suporte abrangente com AWS Marketplace, Security Center, Trusted Advisor.
