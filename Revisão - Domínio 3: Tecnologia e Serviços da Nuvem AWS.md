@@ -127,3 +127,41 @@ Acesso aos serviços da AWS de qualquer lugar com conexão à Internet.
 Segurança:
 Exposição a ameaças de segurança, como ataques DDoS.
 Necessidade de medidas de segurança, como firewalls e criptografia.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Revisão - Infraestrutura Global e Conectividade na AWS
+### Regiões AWS - O que são Regiões AWS?
+
+- Locais geográficos onde a AWS opera centros de dados.
+- Cada Região hospeda múltiplas Zonas de Disponibilidade (AZs).
+- Redundância e resiliência geográfica para aplicações críticas.
+- 
+## Importância da Escolha Estratégica
+
+- Reduzir a latência ao hospedar aplicações em Regiões específicas.
+- Melhorar a experiência do usuário.
+- Otimizar a performance em aplicações que demandam interações rápidas.
+
+# Zonas de Disponibilidade
+
+## O que são Zonas de Disponibilidade (AZs)?
+
+Centros de dados individuais com redundância e isolamento.
+Garantem resiliência a falhas de sistema e desastres naturais.
+Distribuição de aplicações entre AZs assegura alta disponibilidade.
+Estratégias de Distribuição entre Múltiplas AZs
+
+Distribuir aplicações entre múltiplas AZs dentro de uma Região.
+Assegurar que suas aplicações permaneçam disponíveis e resilientes.
+Garantir a continuidade dos negócios e uma excelente experiência do usuário.
+Locais de Borda e Zonas Wavelength
+Reduzem latência e melhoram performance para usuários finais.
+Posicionam conteúdo e aplicações fisicamente próximos aos usuários.
+Cruciais para aplicações que exigem resposta em tempo real.
+Zonas Locais da AWS
+Estendem a infraestrutura AWS para áreas metropolitanas.
+Permitem latências ultra-baixas para aplicações específicas.
+Benefícios para indústrias que demandam processamento de dados próximo.
+Alcançando Alta Disponibilidade
+Utilização de múltiplas AZs garante continuidade de serviços.
+Vital para aplicações de missão crítica.
+Componentes essenciais para serviços de nuvem seguros e confiáveis.
